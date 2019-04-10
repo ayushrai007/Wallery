@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item android:id="@+id/follow"
+            android:icon="@drawable/ic_iconfinder"
+            android:title="Follow us on Insta"/>
+        <item android:id="@+id/rate"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Rate us"/>
+        <item android:id="@+id/share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Share"/>
+        <item
+            android:icon="@drawable/ic_pri"
+            android:id="@+id/nav_pri"
+            android:title="Privacy Policy"
+            />
+
+
+</menu>

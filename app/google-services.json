@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206194684933",
+    "firebase_url": "https://wallpaper-app-4a2ba.firebaseio.com",
+    "project_id": "wallpaper-app-4a2ba",
+    "storage_bucket": "wallpaper-app-4a2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206194684933:android:ed2f683356a130d0",
+        "android_client_info": {
+          "package_name": "com.rai.ayush.wallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206194684933-rr3m9ub9209i1dmjeirkodu71v6b2ad1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rai.ayush.wallery",
+            "certificate_hash": "bfd7f126846baaea25eb1154fcde811252524c97"
+          }
+        },
+        {
+          "client_id": "206194684933-6hup9p79vtsni9e8bl1pkikdg4bl1jaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQT83XwUf5B-JJdkOVcOBS6isDOuyJ54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206194684933-6hup9p79vtsni9e8bl1pkikdg4bl1jaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

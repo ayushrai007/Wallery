@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallery</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_fav">Favourites</string>
+    <string name="nav_sett">Settings</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+
+</resources>

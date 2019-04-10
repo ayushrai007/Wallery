@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bck1">
+
+    <Button
+        android:id="@+id/rateus"
+        android:layout_width="61dp"
+        android:layout_height="34dp"
+
+
+
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="207dp"
+        android:background="#fccb07"
+        android:text="Rate"
+        android:textStyle="bold"
+        tools:ellipsize="start"
+        tools:fadeScrollbars="false"
+        tools:fadingEdgeLength="10dp"
+        tools:fontFamily="@font/kreon_bold" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="61dp"
+        android:layout_height="34dp"
+
+
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_alignTop="@+id/rateus"
+        android:layout_marginRight="50dp"
+        android:background="#f72828"
+        android:fadingEdgeLength="@dimen/cardview_default_elevation"
+        android:fontFamily="@font/kreon_bold"
+        android:text="Exit"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="303dp"
+        android:layout_height="84dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        app:srcCompat="@drawable/review" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerInParent="true"
+        android:text="Rate us on play store"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+</RelativeLayout>

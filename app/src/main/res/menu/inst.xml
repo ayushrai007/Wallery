@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/inst_but"
+        android:icon="@drawable/ic_iconfinder"
+        android:title=""
+        app:showAsAction="never"/>
+
+</menu>
