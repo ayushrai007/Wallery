@@ -1,6 +1,7 @@
 
 # Wallery
 ![image](https://user-images.githubusercontent.com/46347382/124922014-acec4600-e016-11eb-9e31-09e0b095962a.png)
+![image](https://user-images.githubusercontent.com/46347382/124922198-e4f38900-e016-11eb-99e1-59a9c42786c3.png)
 
 
 -  An online wallpaper app for android users coded in JAVA using Android Studio.
