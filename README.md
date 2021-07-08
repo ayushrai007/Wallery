@@ -1,5 +1,7 @@
 
 # Wallery
+![image](https://user-images.githubusercontent.com/46347382/124922014-acec4600-e016-11eb-9e31-09e0b095962a.png)
+
 
 -  An online wallpaper app for android users coded in JAVA using Android Studio.
 - It uses Google FIREBASE for services like Realtime Database, Storage, Server, authentication using Google Sign-in etc.
